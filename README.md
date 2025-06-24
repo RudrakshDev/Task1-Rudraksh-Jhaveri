@@ -26,8 +26,8 @@ This is my first task: **Tic Tac Toe**.
 ### Installation
 
 ```bash
-git clone https://github.com/RudrakshDev/tic-tac-toe.git
-cd tic-tac-toe
+git clone https://github.com/RudrakshDev/Task1-Rudraksh-Jhaveri.git
+cd Task1-Rudraksh-Jhaveri
 npm install
 npm start
 ```
